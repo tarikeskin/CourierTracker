@@ -28,3 +28,6 @@ This project is a **console-based courier simulation**.
    ```bash
    git clone https://github.com/yourUsername/VirtualCourier.git
    cd VirtualCourier
+
+![GoodNewsGIF](https://github.com/user-attachments/assets/ba61674a-f68d-4765-99b8-309f4c95832f)
+
