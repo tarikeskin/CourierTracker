@@ -1,0 +1,3 @@
+﻿  courierTrackingSystem.cpp
+C:\Users\emre\Desktop\courierTrackingSystem\courierTrackingSystem.cpp(27,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  courierTrackingSystem.vcxproj -> C:\Users\emre\Desktop\courierTrackingSystem\x64\Debug\courierTrackingSystem.exe

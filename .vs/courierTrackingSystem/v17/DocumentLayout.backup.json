@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emre\\Desktop\\courierTrackingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{555E47D9-E124-4B60-9C14-6D39272AB3DD}|courierTrackingSystem.vcxproj|C:\\Users\\emre\\Desktop\\courierTrackingSystem\\courierTrackingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{555E47D9-E124-4B60-9C14-6D39272AB3DD}|courierTrackingSystem.vcxproj|solutionrelative:courierTrackingSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "courierTrackingSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\emre\\Desktop\\courierTrackingSystem\\courierTrackingSystem.cpp",
+              "RelativeDocumentMoniker": "courierTrackingSystem.cpp",
+              "ToolTip": "C:\\Users\\emre\\Desktop\\courierTrackingSystem\\courierTrackingSystem.cpp",
+              "RelativeToolTip": "courierTrackingSystem.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-25T18:40:40.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

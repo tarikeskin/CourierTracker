@@ -1,0 +1,9 @@
+GÜN SONU RAPORU
+Müþteri Adresleri:
+Müþteri 1: (1, 2)Kurye müþteriye paketi teslim etti
+Müþteri 2: (9, 8)Kurye müþteriye paketi teslim etti
+Müþteri 3: (0, 5)Kurye müþteriye paketi teslim etti
+Müþteri 4: (8, 3)Kurye müþteriye paketi teslim etti
+Müþteri 5: (7, 2)Kurye müþteriye paketi teslim etti
+
+Toplam Yol Maliyeti: 3116
