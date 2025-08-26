@@ -1,29 +1,27 @@
 # 🚴‍♂️ Virtual Courier Simulator
 
+---
 
+## 📦 About
+This project is a **console-based courier simulation**.  
+🎮 The player controls the courier, represented by a red **K**, using the arrow keys **(⬆️⬇️➡️⬅️)**.  
+🗺️ On a 10x10 grid, **5 customer addresses** are randomly placed.  
+📍 When the courier reaches a customer address:
+- The customer list at the top updates with ✅ **“Package delivered”**.  
+- A log entry `Courier reached the address, package delivered.` is added to the `cost.txt` file.  
 
 ---
 
-## 📦 Hakkında
-Bu proje, konsolda çalışan **sanal bir kurye simülasyonu**dur.  
-🎮 Kullanıcı, kırmızı **K** harfi ile temsil edilen kuryeyi yön tuşlarıyla **(⬆️⬇️➡️⬅️)** yönlendirir.  
-🗺️ 10x10'luk haritada **5 müşteri adresi** rastgele yerleştirilir.  
-📍 Kurye müşteri adresine ulaştığında:
-- Üstteki müşteri listesinde ✅ **“Paket teslim edildi”** yazısı çıkar.  
-- `cost.txt` dosyasına `Kurye adrese ulaştı, paket teslim edildi.` kaydı düşülür.  
+## 🚀 Features
+✨ Console-based visual representation (K in red 🚴‍♂️)  
+✨ Real-time keyboard control 🎮  
+✨ Randomly generated customer addresses 🎯  
+✨ Delivery log saved in `cost.txt` 📝  
 
 ---
 
-## 🚀 Özellikler
-✨ Konsol tabanlı görsellik (K kırmızı renkte 🚴‍♂️)  
-✨ Klavye ile gerçek zamanlı kontrol 🎮  
-✨ Rastgele müşteri adresleri 🎯  
-✨ Teslimat kaydı (`cost.txt`) 📝  
-
----
-
-## 🎮 Nasıl Oynanır?
-1. Repoyu klonla:
+## 🎮 How to Play
+1. Clone the repository:
    ```bash
-   git clone https://github.com/kullaniciAdin/VirtualCourier.git
+   git clone https://github.com/yourUsername/VirtualCourier.git
    cd VirtualCourier
