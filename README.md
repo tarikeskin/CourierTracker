@@ -10,7 +10,6 @@ This project is a **console-based courier simulation**.
 - The customer list at the top updates with ✅ **“Package delivered”**.  
 - A log entry `Courier reached the address, package delivered.` is added to the `cost.txt` file.
 
-- ![IntargosCheapestCourierGIF](https://github.com/user-attachments/assets/6c98184c-ebac-4fe4-a845-4177c653c544)
 ![PostmanCourierGIF](https://github.com/user-attachments/assets/d7107f61-8306-40cf-8fa8-0271d972731e)
 
 
